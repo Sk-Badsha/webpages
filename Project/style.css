@@ -5,7 +5,7 @@ body {
 hr {
     /* background-color: white; */
     border-style: none none dotted none;
-    border-color: grey;
+    border-color: rgb(52, 157, 29);
     border-width: 5px;
     width: 5%;
     position: center;
