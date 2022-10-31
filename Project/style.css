@@ -13,7 +13,7 @@ hr {
 
 
 h1 {
-    color: #66BFBF;
+    color: #06048b;
     font-family: 'Lato', sans-serif;
 
 
@@ -21,7 +21,7 @@ h1 {
 
 h3 {
     
-    color: #66BFBF;
+    color: #641af7;
     font-family: 'Lato', sans-serif;
     /* text-align: center; */
 }
@@ -42,7 +42,7 @@ a{
     
 }
 a:hover{
-    background-color: rgb(166, 149, 149);
+    background-color: rgb(47, 4, 4);
 }
 
 form {
